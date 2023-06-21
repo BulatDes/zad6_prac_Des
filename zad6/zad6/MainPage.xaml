@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zad6.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        
+        <StackLayout Orientation="Horizontal" Margin="10">
+            
+            <Button Text="Static"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                    Margin="15,0,0,0"
+                    CornerRadius="25"
+                    
+            />
+
+            <Button Text="Static"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+            <Button Text="Static"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Margin="10">
+
+            <Button Text="Hover"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                    Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+            <Button Text="Hover"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+            <Button Text="Hover"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="10">
+
+            <Button Text="Pressed"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                    Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+            <Button Text="Pressed"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+            <Button Text="Pressed"
+             Font="Large"
+             BorderWidth="1"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand"
+                   Margin="15,0,0,0"
+                    CornerRadius="25"
+            />
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
